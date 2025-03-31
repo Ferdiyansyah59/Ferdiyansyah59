@@ -5,7 +5,14 @@ I am interested in Machine Learning and Team Management. My favorite quote from 
 _"Stay Hungry, Stay Foolish"_
 inspires me to keep learning and take action.
 
+### 🚀SKILL
+- Programming Language: `Python` `JavaScript` `TypeScript` `PHP` `Go` `Java`
+- ML/DA: `Tensorflow` `Scikit-Learn` `Pytorch` `Numpy` `Pandas` `Matplotlib`
+- Mobile Dev: `React Native` `Expo`
+- Web Dev (FE/BE): `Laravel` `React` `Next` `Go Gin` `Flask` `Vue`
+- Database: `MySQL/MariaDB` `PostgreSQL` `SQL Server` `Firebase`
 
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ferdirnf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ferdiyansyah59) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ferdiyansyah5599@gmail.com) 
 
