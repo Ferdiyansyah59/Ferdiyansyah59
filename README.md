@@ -1,7 +1,9 @@
-## Hi 👋, I'm Perdi
+# Hi 👋, I'm Perdi
 
-# 💫 About Me:
-🔭 I’m currently studying at Gunadarma University and working at A.N.I Technology.<br>🌱 I’m currently learning Machine Learning and Project Management
+## 💫 About Me:
+I am interested in Machine Learning and Team Management. My favorite quote from Steve Jobs, 
+> "Stay Hungry, Stay Foolish"
+inspires me to keep learning and take action.
 
 
 ## 🌐 Socials:
