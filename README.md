@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 I am interested in Machine Learning and Team Management. My favorite quote from Steve Jobs, 
-> "Stay Hungry, Stay Foolish"
+_"Stay Hungry, Stay Foolish"_
 inspires me to keep learning and take action.
 
 
